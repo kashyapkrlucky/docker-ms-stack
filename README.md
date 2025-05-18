@@ -27,8 +27,8 @@ This project contains a set of Dockerized services for local development, includ
 1. Clone this repository:
 
    ```bash
-   git clone <your-repository-url>
-   cd <your-repository-directory>
+   git clone https://github.com/kashyapkrlucky/docker-microservices-stack.git
+   cd docker-microservices-stack
    ```
 
 2. Ensure you have Docker and Docker Compose installed on your machine.
