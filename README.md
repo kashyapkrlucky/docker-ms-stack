@@ -1,4 +1,4 @@
-# Dockerized Microservices Architecture
+# Dockerized Microservices Stack
 
 This project contains a set of Dockerized services for local development, including relational databases, NoSQL databases, a message broker, caching, search, monitoring tools, and a reverse proxy. All services are defined in a `docker-compose.yml` file, which makes it easy to spin up the entire stack with a single command.
 
